@@ -1,3 +1,3 @@
 # 0.0.1
 
-- (feature) Basic webserver configration helpers
+- (feature) Basic webserver configuration helpers
