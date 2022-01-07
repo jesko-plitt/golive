@@ -14,6 +14,7 @@ It provides helpers for:
 - logging (zerolog)
 - database (gorm)
 - webserver / router (gofiber)
+- search (typesense)
 
 ## Usage
 
