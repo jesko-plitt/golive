@@ -15,6 +15,12 @@ It provides helpers for:
 - database (gorm)
 - webserver / router (gofiber)
 
+## Usage
+
+```
+go get -u github.com/jesko-plitt/golive
+```
+
 ## TODOs
 
 - write readme
